@@ -13,6 +13,7 @@
 - 非法输入给出点名的错误，退出码 2，不写结果文件。
 - 双击 `run.cmd` 会在结束后暂停。`run-example.cmd` 和 `run.cmd nopause` 不暂停。
 - 示例都标明 `synthetic`。示例整数 CRSS 不是实测值。
+- 2026-10-23 08:21 +08 已推送到公开仓库 https://github.com/D-sudoasd/SlipRank 。默认分支 `main`，当时查到的 `visibility` 是 PUBLIC。
 
 ## 实际运行过
 

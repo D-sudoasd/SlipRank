@@ -33,6 +33,12 @@
 
 不做：Bunge 或 Euler 角、EBSD、多晶 Taylor 或自洽平均、加工硬化、晶格转动、孪晶体积分数、FCC、内置实测 CRSS、衍射峰拟合、Rietveld。AI-EPSC 仍负责弹塑性自洽。
 
+## 获取
+
+仓库地址：https://github.com/D-sudoasd/SlipRank
+
+克隆后进入仓库目录，双击 `run.cmd`。
+
 ## 启动
 
 需要 Python 3.10 或更新版本，只用标准库。本机用 `py -3`（Python 3.13）跑通。
