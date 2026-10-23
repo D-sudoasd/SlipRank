@@ -1,0 +1,23 @@
+{
+  "label": "synthetic",
+  "description": "构造的 α-Ti 示例，拉伸轴沿 a 轴 [2-1-10]。CRSS 与 c 轴示例相同，是整数筛查值，不是实测。",
+  "structure": "hcp",
+  "c_over_a": 1.587,
+  "loading": "tension",
+  "applied_stress_MPa": 400,
+  "orientation_name": "a-axis",
+  "load": {
+    "frame": "miller_bravais",
+    "indices": [2, -1, -1, 0]
+  },
+  "crss_MPa": {
+    "basal_a": 150,
+    "prismatic_a": 50,
+    "pyramidal_a": 200,
+    "pyramidal_ca_I": 400,
+    "pyramidal_ca_II": 450,
+    "twin_10_12": 100,
+    "twin_11_22": 300,
+    "twin_10_11": 350
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "label": "synthetic",
+  "description": "构造的 α-Ti 单晶筛查示例：拉伸轴沿 [0001]，c/a = 1.587。CRSS 是为了得到确定排序而取的整数，不是实测临界分切应力，也不是某次实验的载荷。",
+  "structure": "hcp",
+  "c_over_a": 1.587,
+  "loading": "tension",
+  "applied_stress_MPa": 400,
+  "orientation_name": "c-axis",
+  "load": {
+    "frame": "miller_bravais",
+    "indices": [0, 0, 0, 1]
+  },
+  "crss_MPa": {
+    "basal_a": 150,
+    "prismatic_a": 50,
+    "pyramidal_a": 200,
+    "pyramidal_ca_I": 400,
+    "pyramidal_ca_II": 450,
+    "twin_10_12": 100,
+    "twin_11_22": 300,
+    "twin_10_11": 350
+  }
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+outputs/
+_agent_notes/

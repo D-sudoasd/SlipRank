@@ -1,0 +1,13 @@
+{
+  "label": "synthetic",
+  "description": "故意写成零矢量的非法输入，用来看错误信息。不是实验数据。",
+  "structure": "hcp",
+  "c_over_a": 1.587,
+  "loading": "tension",
+  "applied_stress_MPa": 400,
+  "orientation_name": "bad-zero",
+  "load": {
+    "frame": "miller_bravais",
+    "indices": [0, 0, 0, 0]
+  }
+}

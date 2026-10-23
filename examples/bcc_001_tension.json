@@ -1,0 +1,17 @@
+{
+  "label": "synthetic",
+  "description": "构造的 BCC 单晶筛查示例：拉伸轴沿 [001]。CRSS 是整数筛查值，不是实测临界分切应力。",
+  "structure": "bcc",
+  "loading": "tension",
+  "applied_stress_MPa": 200,
+  "orientation_name": "001",
+  "load": {
+    "frame": "miller",
+    "indices": [0, 0, 1]
+  },
+  "crss_MPa": {
+    "slip_110": 50,
+    "slip_112": 60,
+    "slip_123": 70
+  }
+}

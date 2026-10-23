@@ -1,0 +1,13 @@
+{
+  "label": "synthetic",
+  "description": "构造示例，只按 Schmid 因子排序，不提供 CRSS，因此没有 Sachs 应力。不是实测。",
+  "structure": "hcp",
+  "c_over_a": 1.587,
+  "loading": "tension",
+  "applied_stress_MPa": 400,
+  "orientation_name": "c-axis-schmid-only",
+  "load": {
+    "frame": "miller_bravais",
+    "indices": [0, 0, 0, 1]
+  }
+}

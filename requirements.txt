@@ -1,0 +1,2 @@
+# SlipRank uses the Python standard library only.
+# Python 3.10 or newer. On this machine the checked launcher is: py -3
